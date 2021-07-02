@@ -1,0 +1,2 @@
+#Sample Web UI to test the Docker deployment 
+Flask==0.10.1
